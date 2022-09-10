@@ -1,0 +1,8 @@
+info:
+  application:
+    name: SpringBoot-Actuator
+    description: Explain about actuator 14 endpoints
+    version : V3.0
+  technology:
+    java : open jdk 8
+    springboot : 2.7.3
